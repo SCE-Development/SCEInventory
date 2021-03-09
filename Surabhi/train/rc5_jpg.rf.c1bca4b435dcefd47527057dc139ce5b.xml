@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rc5_jpg.rf.c1bca4b435dcefd47527057dc139ce5b.jpg</filename>
+	<path>rc5_jpg.rf.c1bca4b435dcefd47527057dc139ce5b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RitzBox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>385</xmax>
+			<ymin>116</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>
